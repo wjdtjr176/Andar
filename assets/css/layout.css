@@ -72,7 +72,7 @@
     transform: translate(-50%, -50%);
 }
 #header .logo a{
-    background-image: url(/assets/images/svg-logo.svg);
+    background-image: url(../images/svg-logo.svg);
     background-repeat: no-repeat;
     background-position: center;
     height: 40px;
@@ -172,7 +172,7 @@
     width: 28px;
     height: 28px;
     background: #f00;
-    background: url(/assets/images/header-btn-up.png);
+    background: url(../images/header-btn-up.png);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -323,7 +323,7 @@ body.no-scroll{
     height: 28px;
     content: '';
     display: block;
-    background: url(/assets/images/btn-pop-nav-item.png);
+    background: url(../images/btn-pop-nav-item.png);
 }
 .pop-menu .sub{
     display: flex;
@@ -417,7 +417,7 @@ body.no-scroll{
     position: absolute;
     top: 35px;
     right: 20px;
-    background: url(/assets/images/pop-nav-close.png);
+    background: url(../images/pop-nav-close.png);
 }
 
 
@@ -427,7 +427,7 @@ body.no-scroll{
 
 .pop-search{
     display: none;
-    background: url(/assets/images/pop-search.jpg);
+    background: url(../images/pop-search.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -450,7 +450,7 @@ body.no-scroll{
     height: 18px;
     left: 15px;
     top: 20px;
-    background: url(/assets/images/pop-close.png) no-repeat center/100%;
+    background: url(../images/pop-close.png) no-repeat center/100%;
 }
 .pop-search form{
     height: 45px;

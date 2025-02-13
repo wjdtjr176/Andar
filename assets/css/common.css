@@ -41,7 +41,7 @@
     height: 19px;
     display: block;
     content: '';
-    background: url(/assets/images/best-more.png);
+    background: url(../images/best-more.png);
 }
 
 
@@ -131,7 +131,7 @@
     box-shadow: 0 0 6px rgb(0,0,0,0.14);
     border-radius: 50%;
     box-sizing: border-box;
-    background-image: url(/assets/images/svg-top.svg);
+    background-image: url(../images/svg-top.svg);
     background-size: 29px auto;
     background-position: center;
     background-repeat: no-repeat;

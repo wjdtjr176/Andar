@@ -235,7 +235,7 @@
     font-size: 14px;
     line-height: 20px;
     font-weight: 500;
-    background-image: url(/assets/images/link-more.png);
+    background-image: url(../images/link-more.png);
     background-repeat: no-repeat;
     background-size: 15px auto;
     background-position: calc(100% - 18px) center;
@@ -289,7 +289,7 @@
     content: '';
     width: 24px;
     height: 19px;
-    background: url(/assets/images/link-more2.png) no-repeat center/19px;   
+    background: url(../images/link-more2.png) no-repeat center/19px;   
 }
 
 
@@ -323,7 +323,7 @@
     width: 15px;
     height: 11px;
     content: '';
-    background-image: url(/assets/images/more-link.png);
+    background-image: url(../images/more-link.png);
     background-repeat: no-repeat;
     background-size: 15px auto;
     background-position: center;
