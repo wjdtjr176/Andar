@@ -69,7 +69,7 @@ $('.pop-search .btn-close').click(function(){
 $('.sc-best .tab-item a').click(function(e){
     e.preventDefault();
 
-    tabName=$(this).data('tab');
+    let tabName=$(this).data('tab');
 
     $(this).addClass('active').parent().siblings().find('a').removeClass('active');
     $(tabName).addClass('active').siblings().removeClass('active');
