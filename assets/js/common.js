@@ -85,7 +85,7 @@ $('.sc-best .tab-item a').click(function(e){
 
 let lastScroll = 0;
 $(window).scroll(function(){
-    curr = $(this).scrollTop();
+    let curr = $(this).scrollTop();
 
 
     if (curr > 0) {
